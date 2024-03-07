@@ -9,7 +9,7 @@ This program is coded in micropython just for Numwoks calculator but it must wor
 ## 💬 Language
 This program is made in Micropython.
 
-The script is not very optimized, I was just starting out
+The script is not very optimized, I was just starting out.
 
 ## 🛠️ Details
 The only problem is all is in French.
